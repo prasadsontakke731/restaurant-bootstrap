@@ -1,0 +1,29 @@
+#hero {
+  width: 100%;
+  height: 100vh;
+  background: url('./rest1.png') top center;
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+}
+span {
+  color: peru;
+}
+li {
+  list-style-type: none;
+}
+li a {
+  margin-right: 10px;
+}
+.container button {
+  color: white;
+}
+.card {
+  border: 1px solid gray;
+  box-shadow: 10px 10px 20px gray;
+}
+.material-symbols-outlined {
+  /* width: 10px; */
+  height: 7px;
+  /* margin-top: 60px; */
+}
